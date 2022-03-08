@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Github Page](https://github.com/AryamanAdivyaSingh47)**
 
-- 📫 How to reach me **[My Gmail](aryaman147.reach@gmail.com)**
+- 📫 How to reach me **[My Gmail](mailto:aryaman147.reach@gmail.com)**
 
 
 ## 🚀 Languages and Tools:
