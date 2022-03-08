@@ -18,12 +18,12 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://img.icons8.com/fluency-systems-filled/48/000000/circled-c.png"/></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://img.icons8.com/stickers/48/000000/c.png"/></a>
     <a href="https://isocpp.org/"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://www.python.org/"> <img src="https://img.icons8.com/stickers/48/000000/python.png"/></a>
     <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/></a>
-    <a href="https://www.java.com/en/"><img src="https://img.icons8.com/ios/48/000000/java-coffee-cup-logo--v2.png"/></a>
+    <a href="https://www.java.com/en/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
