@@ -23,7 +23,7 @@
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://img.icons8.com/stickers/48/000000/c.png"/></a>
     <a href="https://isocpp.org/"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://www.python.org/"> <img src="https://img.icons8.com/stickers/48/000000/python.png"/></a>
-    <a href="https://www.anaconda.com/"> <img src="https://img.icons8.com/fluency/96/000000/anaconda--v2.png"/></a>
+    <a href="https://www.anaconda.com/"><img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/></a>
     <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/></a>
     <a href="https://www.java.com/en/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
