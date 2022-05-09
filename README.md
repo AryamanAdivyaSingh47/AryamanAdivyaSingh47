@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aryaman</h1>
-<h3 align="center">I'm a Full Stack Developer,Data Scientist and a Machine Learning Enthusiast</h3>
+<h3 align="center">I'm a Machine Learning/Artificial Intelligence Enthusiast, also discovering BlockChain and WEB 3.0</h3>
 
 
 ## 🙋‍♂️ Regarding Me
